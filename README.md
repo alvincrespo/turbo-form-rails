@@ -1,3 +1,7 @@
+⚠️⚠️⚠️
+Archived. Turbo has since implemented data-turbo-confirm and data-turbo-method.
+⚠️⚠️⚠️
+
 # Turbo Form (Rails)
 
 This library builds on top of [turbo-form](https://github.com/alvincrespo/turbo-form) by providing template helpers specifically for Ruby on Rails.
